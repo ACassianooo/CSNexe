@@ -1,8 +1,10 @@
-## Ola! Me chamo Antonio Cassiano 
+# Ola! Me chamo Antonio Cassiano 
 ==========================
 
 
 
+<a href="https://www.linkedin.com/in/antonio-cassiano-467085240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 
 
 <picture>
